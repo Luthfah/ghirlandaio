@@ -7,6 +7,10 @@
 3. Jelaskan perbedaan metodologis dari konflik antara sains dan agama
 4. berikan anlisa medalam dari konflik tersebut.
 
+### pengumpulan
+- presentator mengumpulkan penugasan di dalam repo penguasan masing masing pada hari Rabu, jam 07.30 AM
+- keterlambatan pengumpulan tugas di berikan sangksi pemberian pinalti penilaian sebesar 50%.
+
 ### output:
 1. slide presentasi google slide
 2. makalah dalam format markdowm
