@@ -1,2 +1,4 @@
-# Konflik Karena Perbedaan Pandangan Antara Sains dan Agama
+# Resume Pola Hubungan Sains dan Agama
+## Apakah Saat ini Masih Terjadi Konflik Karena Perbedaan Pandangan Antara Sains dan Agama?
 
+Perbedaan cara pandangan antara dua hal yang memiliki dasar pemikiran berbeda akan sangat mungkin terjadi, termasuk dalam hal sains dan agama. Keduanya mempunyai cara pandangan yang berbeda dalam melihat bagaimana cara alam semesta bekerja. Menurut pandangan sains melihat dunia melalui pendekatan empiris dan rasional dengan melakukan berbagai observasi dan penelitian, sedangkan menurut pandangan agama hal ini justru dilihat berdasarkan pada keyakinan spiritual bagi mereka yang mempercayainya yang berlandaskan pada wahyu. Lalu apakah di zaman modern ini masih relevan terhadap perbedaan dua cara pandangan tersebut? Menurut buku Homo Deus karya Harari, Y. N. dijelaskan bahwa Masyarakat modern kini sudah sangat berbeda di
