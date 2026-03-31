@@ -11,7 +11,7 @@
 <p align="center">Meutia Febriyani (12402051010018)</p>
 <p align="center">Irfan Hakim Ramadhan (12402151030085)</p>
 <p align="center">Allyssa Ramadha (12402051050142)</p>
-<p align="center">Dewi Ana (12402051050158)</p>
+<p align="center">Dewi Ana (12402051050158)</p> 
 
 
 <p align="center">Fakultas Adab dan Humaniora</p>
@@ -19,6 +19,7 @@
 <p align="center">Universitas Islam Negeri Syarif Hidayatullah Jakarta</p> 
   <p align="center">2026</p>
 
+---
 ## KATA PENGANTAR 
 Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa karena atas rahmat dan karunia-nya makalah isi dapat disusun dengan baik. Makalah ini disusun untuk membahas posisi teknologi dalam kehidupan manusia, Khususnya sebagai mitos modern serta perannya dalam bentuk realitas melalui perspektif hiperrealitas. 
 
@@ -68,7 +69,7 @@ Fenomena ini menimbulkan pergeseran cara manusia memahami dunia, dimana realitas
 
 1. Bagaimana posisi teknologi sebagai mitos?
 2. Bagaimaana subtansi teknologi dalam sudut pandang hiperrealitas?
-3. Apa contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrealitas?
+3. Apa contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrealitas ?
 4. Bagaimana perbedaan teknologi sebagai mitos dan teknologi alat menggunakan pengalaman internal dan terpersonalisasi?
 
 1.3 Tujuan Penulisan
@@ -133,6 +134,9 @@ Dalam kondisi hiperrealitas, teknologi tidak lagi berdiri di luar kehidupan manu
 Konsep penting lainnya adalah simulacra, yaitu tiruan yang tidak lagi memiliki hubungan jelas dengan realitas aslinya. Baudrillard memberi gambaran bahwa "it is the map that precedes the territory" (Baudrillard 1981), yang artinya representasi datang lebih dulu dari pada kenyataan yang dipresentasikan. Dalam konteks teknologi, simulacra terlihat pada identitas digital di media sosial atau citra diri di online yang dibentuk sengaja. Hal semacam itu belum tentu mencerminkan kondisi faktual, tetapi tetap diperlukan sebagai nyata. Dengan kata lain, masyarakat hidup di antara representasi yang menutupi atau menggantikan realitas.
 
 Menurut jean Baudrillard teknologi sekarang sudah tidak bisa lagi dilihat sekedar sebagai alat bantu. Perannya berkembang jauh lebih besar, sampai ikut membentuk apa yang kita anggap sebagai realitas lewat berbagai simulasi yang kadang justru terasanlebih meyakinkan daripada kenyataan aslinya. Akibatnya batas antara mana yang fakta dan mana yang sekedar hasil rekayasa makin sulit dibedakan, dan ini tentu membuka peluan lebih besar untuk manipulasi informasi. Dalam situasi seperti ini cara kita memahami dunia pun ikut berubah, sehingga kemampuan berpikir kritis menjadi hal yang penting supaya kita tidak mudah terjebak dalam realitas yang samar di era hiperrealitas.
+
+2.3 Memberikan contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrialitas
+
 
 
 
