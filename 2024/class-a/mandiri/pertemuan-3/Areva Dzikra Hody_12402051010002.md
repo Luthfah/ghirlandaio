@@ -4,7 +4,7 @@ NIM:12402051010002
 
 Kelas:4A
 
-##Bagaimana Mengidentifikasi Teknologi Sebagai Mitos##
+##Bagaimana Mengidentifikasi Teknologi Sebagai Mitos
 
 **Latar Belakang**
 Zaman modern ini, teknologi menjadi tidak asing lagi bagi kehidupan manusia. Semua aktivitas kebanyakan mulai dari pendidikan, komunikasi 
