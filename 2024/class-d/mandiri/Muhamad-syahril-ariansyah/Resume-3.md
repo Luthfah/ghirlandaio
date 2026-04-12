@@ -1,7 +1,11 @@
 #Resume kelompok 3
+
 ##Nama Muhamad Syahril Ariansyah 
+
 ##Nim 12402051030104
+
 ##Mata kuliah Perpustakaan dan arsip digital 
+
 ##Dosen pengampu Al muhdil karim S.IP., M.Hum.
 
 ##Analisi Resume ini disusun untuk secara langsung menjawab pertanyaan: “Buku apa yang menjelaskan peran startup dan inovator di Silicon Valley?”. Buku yang digunakan adalah Troublemakers: Silicon Valley’s Coming of Age karya Leslie Berlin.
