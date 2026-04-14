@@ -56,14 +56,14 @@ era manusia super (era AI/Society 5.0), perpustakaan kini memiliki "otak buatan"
   ## 2.2 Jelaskan konsep cyrberethic and hubunganya dengan perpustakaan digital
   ## 2.3 Jelaskan prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital
   Dalam lingkungan kontemporer (terbaru), perpustakaan dan lembaga arsip diklasifikasikan sebagai lembaga epistemik, yang menandakah bahwa tujuan utama mereka untuk memperoleh, menjaga, dn menyebarluaskan pengetahuan secara jujurdan ketidakberpihakan (objektif). Sebagai penjaga kebenerana informaso, lembaga ini harus menerapkan prinsip prinsip keamanan siber yang tidak hanya bersifat teknis, tetapi juga etis.
-  
- a.	Dasar Utama Perlindungan Informasi (triad CIA)
+
+a.	Dasar Utama Perlindungan Informasi (triad CIA)
   Lembaga informasi digital harus menjamin tiga tujuan prinsip keamanan yang dikenal sebagai triad CIA :
   1. Kerahasiaan (Confidentiality): Menjamin bahwa informasi sensitif, seperti data pribadi anggota atau dokumen terbatas, tidak dapat diperoleh oleh pihak tanpa izin
   2. Integritas (Integrity): Mencegah atau mendeteksi modifikasi data yang tidak sah untuk memastikan bahwa catatan arsip atau koleksi digital tetap asli dan tidak dipalsukan
   3. Ketersediaan (Availability): Memastikan bahwa sistem perpustakaan dan datanya tetap dapat diakses oleh pengguna yang berwenang saat dibutuhkan tanpa gangguan yang tidak sah.
-
- b.	Prinsip Operasional dan Desain Keamanan
+     
+b.	Prinsip Operasional dan Desain Keamanan
 Untuk membangun sistem yang tangguh, pengelola perpustakaan dan arsip digital harus mengikuti prinsip-prinsip desain berikut:
 1. Hak Akses Minimal: Pengguna (staf) atau bagian sistem tidak boleh memiliki hak akses lebih dari yang diperlukan untuk melaksanakan tugas khusus mereka supaya mencegah risiko penyalahgunaan.
 2.	Pertahanan Berlapis: Prosedur keamanan tunggal tidak boleh diandalkan. Sebaliknya, beberapa prosedur harus digunakan secara bersamaan, sehingga meningkatkan upaya yang diperlukan oleh penyerang.
